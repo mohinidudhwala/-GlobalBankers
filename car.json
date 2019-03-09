@@ -1,0 +1,41 @@
+{
+   "car1" : {
+      "id": 1,
+      "name" : "CR-V",
+      "age" : "24",
+      "value" : "30000",
+      "mileage" : "999",
+      "owners" : 2,
+      "collision" : 1
+   },
+
+   "car2" : {
+      "id": 2,
+      "name" : "HR-V",
+      "age" : "12",
+      "value" : "20000",
+      "mileage" : "96",
+      "owners" : 1,
+      "collision" : 0
+   },
+
+   "car3" : {
+      "id": 2,
+      "name" : "HR-V",
+      "age" : "10",
+      "value" : "20000",
+      "mileage" : "199",
+      "owners" : 1,
+      "collision" : 4
+   },
+
+   "car4" : {
+      "id": 2,
+      "name" : "HR-V",
+      "age" : "10",
+      "value" : "20000",
+      "mileage" : "199",
+      "owners" : 1,
+      "collision" : 6
+   }
+}
